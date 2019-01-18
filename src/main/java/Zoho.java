@@ -7,6 +7,8 @@ public class Zoho {
 
     //check changegit
 
+    //hello
+
     public static void main(String[] args) {
 
         int applied = 0;
@@ -15,9 +17,9 @@ public class Zoho {
         String appliedEmails= "";
         String notAppliedEmails = "";
         int counter=0;
-
-        int il = 0;
-        int va = 0;
+        //variables for using
+        int il = 0; // same line changes
+        int va = 0; //second same line changegit s
         int online = 0;
 
     for(String email : emails) {
