@@ -16,8 +16,8 @@ public class Zoho {
         String notAppliedEmails = "";
         int counter=0;
 
-        int il = 0;
-        int va = 0;
+        int il = 0; //changes from github
+        int va = 0; //changes from github
         int online = 0;
 
     for(String email : emails) {
