@@ -13,7 +13,7 @@ public class Zoho {
 
         int applied = 0;
         int notApplied = 0;
-        //String email = "abdimazhitovm@gmail.com";
+        //String email = "eric@cybertek.com";
         String appliedEmails= "";
         String notAppliedEmails = "";
         int counter=0;
